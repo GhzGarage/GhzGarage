@@ -1,10 +1,3 @@
-<p>
-  <img width="300" height="300" src="https://i.imgur.com/bzBtVLd.png">
-</p>
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J47M32E)
-
 ## GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhzGarage)](https://ko-fi.com/kakarot)
 
