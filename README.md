@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/qbcore-framework"><img src="https://img.shields.io/badge/QBCore-Creator-1f6feb?style=flat-square&logo=github&logoColor=white" alt="QBCore creator"></a>
-  <a href="https://mantleplatform.com"><img src="https://img.shields.io/badge/Mantle-Coming%20soon-6e40c9?style=flat-square" alt="Mantle"></a>
+  <a href="https://mantleplatform.com"><img src="https://img.shields.io/badge/Mantle-UE5%20platform-6e40c9?style=flat-square&logo=unrealengine&logoColor=white" alt="Mantle"></a>
   <a href="https://www.linkedin.com/in/joshua-eger-979177172/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -24,8 +24,13 @@ Creator and original architect of the de facto standard framework for multiplaye
 - **Event-driven communication layer** connecting server, client, and inter-resource messaging
 - **Extensible API framework** that lets a large community build and ship on a shared foundation
 
-### [Mantle](https://mantleplatform.com) · *Proprietary*
-My next platform, currently in development. More details soon. Follow along at [mantleplatform.com](https://mantleplatform.com).
+### [Mantle](https://mantleplatform.com) · *Unreal Engine 5*
+**Build places in Unreal Engine. Publish them. Play them together.**  
+A platform for player-made worlds built on Unreal Engine 5. Creators build places in the Unreal Editor, publish them to Mantle, and players join through the Mantle client.
+
+- **[MantleCore](https://github.com/mantleplatform/MantleCore)**: public UE 5.8 authoring plugin to build, check, upload, and *Test locally* in the real client
+- **Multi-language scripting**: gameplay in Luau, TypeScript, or Python against a single Mantle API, plus a visual graph editor
+- **Community hosting**: creators can run their own Linux or Windows servers for their places
 
 ## 🧠 What I focus on
 
