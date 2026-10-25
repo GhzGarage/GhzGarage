@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://github.com/qbcore-framework"><img src="https://img.shields.io/badge/QBCore-Creator-1f6feb?style=flat-square&logo=github&logoColor=white" alt="QBCore creator"></a>
-  <a href="https://mantleplatform.com"><img src="https://img.shields.io/badge/Mantle-UE5%20platform-6e40c9?style=flat-square&logo=unrealengine&logoColor=white" alt="Mantle"></a>
+  <a href="https://mantleplatform.com"><img src="https://img.shields.io/badge/Mantle-Founder-6e40c9?style=flat-square&logo=unrealengine&logoColor=white" alt="Mantle founder"></a>
   <a href="https://www.linkedin.com/in/joshua-eger-979177172/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-I've spent 8+ years designing and building developer platforms, runtime systems, and event-driven infrastructure at scale. I'm best known as the creator of **QBCore**, an open-source multiplayer framework running on thousands of live servers and used by millions of players worldwide.
+I've spent 8+ years designing and building developer platforms, runtime systems, and event-driven infrastructure at scale. I'm best known as the creator of **QBCore**, an open-source multiplayer framework running on thousands of live servers and used by millions of players worldwide. Today I'm building **Mantle**, a platform for player-made worlds on Unreal Engine 5.
 
 ## 🚀 Featured work
 
@@ -25,6 +25,7 @@ Creator and original architect of the de facto standard framework for multiplaye
 - **Extensible API framework** that lets a large community build and ship on a shared foundation
 
 ### [Mantle](https://mantleplatform.com) · *Unreal Engine 5*
+Founder and sole developer.  
 **Build places in Unreal Engine. Publish them. Play them together.**  
 A platform for player-made worlds built on Unreal Engine 5. Creators build places in the Unreal Editor, publish them to Mantle, and players join through the Mantle client.
 
